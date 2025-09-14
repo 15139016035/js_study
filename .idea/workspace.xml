@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/01_this指向的分析.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_this绑定/01_this指向的分析.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_this指向的案例.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_this绑定/02_this指向的案例.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_内置函数的this.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_this绑定/03_内置函数的this.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_this绑定优先级.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_this绑定/04_this绑定优先级.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_this的特殊情况.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_this绑定/05_this的特殊情况.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/作用域和作用域链/01_局部作用域.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/作用域和作用域链/02_全局作用域.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/作用域和作用域链/03_作用域链.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +73,8 @@
       <workItem from="1757777175034" duration="3527000" />
       <workItem from="1757816004779" duration="725000" />
       <workItem from="1757856700383" duration="174000" />
+      <workItem from="1757876588367" duration="1442000" />
+      <workItem from="1757880798643" duration="2000" />
     </task>
     <servers />
   </component>
