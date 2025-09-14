@@ -36,3 +36,17 @@ let obj2 ={
 }
 //this指向obj2对象
 obj2.fun();
+
+
+/**
+ * 案例四
+ */
+
+let obj3 ={
+    hello : function (){
+        console.log("obj3:::hello::",this);
+    }
+};
+// (obj3.hello)() === obj3.hello()
+(obj3.hello)();
+(n =obj3.hello)();

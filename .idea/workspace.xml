@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/01_this指向的分析.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_this指向的案例.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_内置函数的this.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/闭包/01_闭包.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_箭头函数/01箭头函数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_箭头函数/02arguemnts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_this绑定优先级.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_this的特殊情况.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_作用域和作用域链/01_局部作用域.js" beforeDir="false" afterPath="$PROJECT_DIR$/作用域和作用域链/01_局部作用域.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_作用域和作用域链/02_全局作用域.js" beforeDir="false" afterPath="$PROJECT_DIR$/作用域和作用域链/02_全局作用域.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_作用域和作用域链/03_作用域链.js" beforeDir="false" afterPath="$PROJECT_DIR$/作用域和作用域链/03_作用域链.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_this指向的案例.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_this指向的案例.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/00_箭头函数" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +68,11 @@
       <workItem from="1757638928116" duration="1423000" />
       <workItem from="1757680673192" duration="5179000" />
       <workItem from="1757688758562" duration="102000" />
+      <workItem from="1757689794511" duration="444000" />
+      <workItem from="1757691291154" duration="1403000" />
+      <workItem from="1757772550692" duration="3449000" />
+      <workItem from="1757777175034" duration="3527000" />
+      <workItem from="1757816004779" duration="725000" />
     </task>
     <servers />
   </component>
