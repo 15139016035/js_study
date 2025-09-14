@@ -47,6 +47,6 @@ let obj3 ={
         console.log("obj3:::hello::",this);
     }
 };
-// (obj3.hello)() === obj3.hello()
+// (obj3.hello)() ===  obj3.hello()
 (obj3.hello)();
 (n =obj3.hello)();
