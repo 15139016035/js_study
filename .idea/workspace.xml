@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/02_闭包/01_闭包.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/闭包/01_闭包.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,8 @@
       <workItem from="1757876588367" duration="1442000" />
       <workItem from="1757880798643" duration="2000" />
       <workItem from="1757880804858" duration="226000" />
-      <workItem from="1757919139542" duration="5000" />
+      <workItem from="1757919139542" duration="38000" />
+      <workItem from="1757942293601" duration="1237000" />
     </task>
     <servers />
   </component>
