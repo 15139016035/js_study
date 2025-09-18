@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/03_函数对象的内置属性/01_函数对象的内置属性.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_函数对象的内置属性/02_普通函数的arguments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数式编程的概念/02.柯里化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数式编程的概念/03_自动柯里化函数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数式编程的概念/04_组合函数.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_纯函数/01_纯函数.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_函数式编程的概念/01_纯函数.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,10 @@
       <workItem from="1757919139542" duration="38000" />
       <workItem from="1757942293601" duration="1869000" />
       <workItem from="1758101114392" duration="1035000" />
-      <workItem from="1758109290886" duration="3289000" />
+      <workItem from="1758109290886" duration="6656000" />
+      <workItem from="1758120816243" duration="8000" />
+      <workItem from="1758198534951" duration="3214000" />
+      <workItem from="1758204787828" duration="1259000" />
     </task>
     <servers />
   </component>
