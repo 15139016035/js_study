@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="" />
+    <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/05_属性描述符/01_数据描述符.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_属性描述符/02_存取属性描述符.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_属性描述符/03_属性描述符的其他操作.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_对象的原型/01_对象的原型.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +84,8 @@
       <workItem from="1758120816243" duration="8000" />
       <workItem from="1758198534951" duration="3214000" />
       <workItem from="1758204787828" duration="1440000" />
+      <workItem from="1758448243877" duration="36000" />
+      <workItem from="1758452592097" duration="5229000" />
     </task>
     <servers />
   </component>
