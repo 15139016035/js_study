@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/05_属性描述符/01_数据描述符.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_属性描述符/02_存取属性描述符.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_属性描述符/03_属性描述符的其他操作.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_对象的原型/01_对象的原型.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_对象的原型/02_三个重要属性的关系.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_对象的原型/03_原型的重要作用.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_对象的原型/04_重写原型对象.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_对象的原型/01_对象的原型.js" beforeDir="false" afterPath="$PROJECT_DIR$/06_对象的原型/01_对象的原型.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,20 +27,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/code/js/js_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/01_this指向" />
@@ -51,7 +53,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +88,8 @@
       <workItem from="1758204787828" duration="1440000" />
       <workItem from="1758448243877" duration="36000" />
       <workItem from="1758452592097" duration="5229000" />
+      <workItem from="1758467897749" duration="30000" />
+      <workItem from="1758467951539" duration="5732000" />
     </task>
     <servers />
   </component>
