@@ -1,0 +1,103 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision 2156c2fc8c0475434f84c45fe1afe51a69373d10)
++++ /dev/null	(revision 2156c2fc8c0475434f84c45fe1afe51a69373d10)
+@@ -1,95 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="">
+-      <change afterPath="$PROJECT_DIR$/05_属性描述符/01_数据描述符.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/05_属性描述符/02_存取属性描述符.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/05_属性描述符/03_属性描述符的其他操作.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/06_对象的原型/01_对象的原型.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 8
+-}</component>
+-  <component name="ProjectId" id="32W662jE6HmFqwqQv5UBaoIUCTG" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-  }
+-}</component>
+-  <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="$PROJECT_DIR$/01_this指向" />
+-      <recent name="$PROJECT_DIR$/00_箭头函数" />
+-      <recent name="$PROJECT_DIR$" />
+-    </key>
+-  </component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="默认任务">
+-      <changelist id="abec3772-836b-4684-bdd1-6307529c9652" name="更改" comment="" />
+-      <created>1757523802443</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1757523802443</updated>
+-      <workItem from="1757523803567" duration="36000" />
+-      <workItem from="1757523841643" duration="3359000" />
+-      <workItem from="1757638928116" duration="1423000" />
+-      <workItem from="1757680673192" duration="5179000" />
+-      <workItem from="1757688758562" duration="102000" />
+-      <workItem from="1757689794511" duration="444000" />
+-      <workItem from="1757691291154" duration="1403000" />
+-      <workItem from="1757772550692" duration="3449000" />
+-      <workItem from="1757777175034" duration="3527000" />
+-      <workItem from="1757816004779" duration="725000" />
+-      <workItem from="1757856700383" duration="174000" />
+-      <workItem from="1757876588367" duration="1442000" />
+-      <workItem from="1757880798643" duration="2000" />
+-      <workItem from="1757880804858" duration="226000" />
+-      <workItem from="1757919139542" duration="38000" />
+-      <workItem from="1757942293601" duration="1869000" />
+-      <workItem from="1758101114392" duration="1035000" />
+-      <workItem from="1758109290886" duration="6656000" />
+-      <workItem from="1758120816243" duration="8000" />
+-      <workItem from="1758198534951" duration="3214000" />
+-      <workItem from="1758204787828" duration="1440000" />
+-      <workItem from="1758448243877" duration="36000" />
+-      <workItem from="1758452592097" duration="5229000" />
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+-</project>
+\ No newline at end of file
