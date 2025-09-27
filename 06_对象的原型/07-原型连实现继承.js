@@ -36,7 +36,7 @@ function Student(name, age, score) {
 Student.prototype.study = function () {
     console.log("学生在学习");
 }
-
+////非最佳代码，最佳代码请移步语雀
 Student.prototype.__proto__=Person.prototype;
 
 function Teacher(name,age){
@@ -48,6 +48,7 @@ function Teacher(name,age){
 Teacher.prototype.teatch=function(){
     console.log("老师在教学")
 }
+//非最佳代码，最佳代码请移步语雀
 Teacher.prototype.__proto__=Person.prototype;
 
 
