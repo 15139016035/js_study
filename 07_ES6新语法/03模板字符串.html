@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Document</title>
+</head>
+<body>
+
+
+<script>
+    /**
+     * 模板字符串
+     */
+
+
+    let name = "wyh";
+    let age =18;
+
+
+    let info =`我的名字是${name} ,我的年龄是${age}`;
+
+    console.log(info);
+
+
+
+    //特殊的使用
+    function foo(...args){
+        console.log("参数",...args);
+    }
+
+    //函数的特殊调用；
+    foo`我的名字是${name} ,我的年龄${age}`;
+</script>
+</body>
+</html>
