@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Document</title>
+</head>
+<body>
+
+<h2 class="name"></h2>
+</body>
+
+<script>
+    const obj={
+        name: "wyh"
+    }
+    const nameEl = document.querySelector(".name");
+
+    //当我修改了name的值，就要去操作dom元素同步值；
+    obj.name ="kobe";
+    nameEl.textContent = obj.name;
+
+    //当我修改了name的值，就要去操作dom元素同步值；
+    obj.name ="joke";
+    nameEl.textContent = obj.name;
+
+    //当我修改了name的值，就要去操作dom元素同步值；
+    obj.name ="lover";
+    nameEl.textContent = obj.name;
+
+</script>
+</html>
